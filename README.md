@@ -1,4 +1,4 @@
 # pixeldev-demo
 This is my first git repository.
 <br>
-Author - Pushpendra Garg 
+Author - Pushpendra Garg {SOIT}
